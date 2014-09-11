@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="EmonMonitor.View.StatusBarView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    
+    xmlns:src="clr-namespace:EmonMonitor.View"
+             
+    mc:Ignorable="d"
+
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="100" d:DesignWidth="480">
+
+    <UserControl.Resources>
+        <src:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+        <src:BackgroundConverter x:Key="BackgroundConverter" />
+    </UserControl.Resources>
+    
+    <Grid x:Name="LayoutRoot">
+        <StackPanel  Visibility="{Binding ShowStatusPanel, Converter={StaticResource BooleanToVisibilityConverter}}" Background="{Binding IsTransparent, Converter={StaticResource BackgroundConverter}}">
+            <ProgressBar Name="ProgressBar" Visibility="{Binding ShowStatusBar, Converter={StaticResource BooleanToVisibilityConverter}}" IsIndeterminate="True" VerticalAlignment="Center" HorizontalAlignment="Stretch" Margin="16,8,16,-8"/>
+            <TextBlock Name="ProgressText" Text="{Binding StatusMsg}" Visibility="{Binding ShowStatusMsg, Converter={StaticResource BooleanToVisibilityConverter}}" VerticalAlignment="Center" HorizontalAlignment="Stretch" TextWrapping="Wrap" TextAlignment="Center" Margin="8,8,8,8"  />
+        </StackPanel>
+    </Grid>
+</UserControl>

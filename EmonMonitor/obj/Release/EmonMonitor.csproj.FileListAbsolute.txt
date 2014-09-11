@@ -1,0 +1,75 @@
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Release\Assets\ApplicationIcon.png
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Release\EmonMonitor.dll
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Release\EmonMonitor.pdb
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Release\AppManifest.xaml
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Release\Properties\WMAppManifest.xml
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Release\EmonMonitor_Release_AnyCPU.xap
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\App.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\SetupPage.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\MainPage.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\View\ConfigApiView.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\View\ConfigFeedView.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\View\FeedsDashboardView.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\View\StatusBarView.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\View\FeedsSubscribedPreviewView.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\EmonMonitor.g.resources
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\EmonMonitor.Resources.AppResources.resources
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\EmonMonitor.csproj.GenerateResource.Cache
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\EmonMonitor.dll
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\EmonMonitor.pdb
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Release\XapCacheFile.xml
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Release\Assets\ApplicationIcon.png
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Release\Assets\Tiles\IconicTileSmall.png
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Release\EmonMonitor.dll
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Release\EmonMonitor.pdb
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Release\AppManifest.xaml
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Release\Properties\WMAppManifest.xml
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Release\EmonMonitor_Release_AnyCPU.xap
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\App.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\SetupPage.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\MainPage.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\View\ConfigApiView.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\View\ConfigFeedView.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\View\FeedsDashboardView.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\View\StatusBarView.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\View\FeedsSubscribedPreviewView.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\EmonMonitor.g.resources
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\EmonMonitor.Resources.AppResources.resources
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\EmonMonitor.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\EmonMonitor.dll
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\EmonMonitor.pdb
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Release\XapCacheFile.xml
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Release\EmonMonitor.dll
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Release\EmonMonitor.pdb
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Release\AppManifest.xaml
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Release\EmonMonitor_Release_AnyCPU.xap
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\App.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\SetupPage.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\MainPage.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\View\ConfigApiView.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\View\ConfigFeedView.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\View\FeedsDashboardView.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\View\StatusBarView.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\View\FeedsSubscribedPreviewView.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\EmonMonitor.g.resources
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\EmonMonitor.Resources.AppResources.resources
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\EmonMonitor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\EmonMonitor.dll
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\EmonMonitor.pdb
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Release\XapCacheFile.xml

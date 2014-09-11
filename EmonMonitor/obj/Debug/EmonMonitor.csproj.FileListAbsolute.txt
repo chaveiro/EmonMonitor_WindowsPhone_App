@@ -1,0 +1,100 @@
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Debug\Assets\ApplicationIcon.png
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Debug\EmonMonitor.dll
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Debug\EmonMonitor.pdb
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Debug\AppManifest.xaml
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Debug\Properties\WMAppManifest.xml
+C:\_MyFiles\EmonMonitor\EmonMonitor\Bin\Debug\EmonMonitor_Debug_AnyCPU.xap
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\App.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\SetupPage.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\MainPage.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\View\ConfigApiView.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\View\ConfigFeedView.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\View\FeedsDashboardView.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\View\StatusBarView.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\View\FeedsSubscribedPreviewView.g.cs
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\EmonMonitor.g.resources
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\EmonMonitor.Resources.AppResources.resources
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\EmonMonitor.csproj.GenerateResource.Cache
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\EmonMonitor.dll
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\EmonMonitor.pdb
+C:\_MyFiles\EmonMonitor\EmonMonitor\obj\Debug\XapCacheFile.xml
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Debug\Assets\ApplicationIcon.png
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Debug\EmonMonitor.dll
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Debug\EmonMonitor.pdb
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Debug\AppManifest.xaml
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Debug\Properties\WMAppManifest.xml
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\Bin\Debug\EmonMonitor_Debug_AnyCPU.xap
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\SetupPage.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\MainPage.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\View\ConfigApiView.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\View\ConfigFeedView.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\View\FeedsDashboardView.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\View\StatusBarView.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\View\FeedsSubscribedPreviewView.g.cs
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\EmonMonitor.g.resources
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\EmonMonitor.Resources.AppResources.resources
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\EmonMonitor.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\EmonMonitor.dll
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\EmonMonitor.pdb
+\\vmware-host\Shared Folders\VisualStudio\2013\EmonMonitor\EmonMonitor\obj\Debug\XapCacheFile.xml
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Assets\ApplicationIcon.png
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\EmonMonitor.dll
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\EmonMonitor.pdb
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\AppManifest.xaml
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Properties\WMAppManifest.xml
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\EmonMonitor_Debug_AnyCPU.xap
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\App.g.cs
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\SetupPage.g.cs
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\MainPage.g.cs
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\View\ConfigApiView.g.cs
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\View\ConfigFeedView.g.cs
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\View\FeedsDashboardView.g.cs
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\View\StatusBarView.g.cs
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\View\FeedsSubscribedPreviewView.g.cs
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\EmonMonitor.g.resources
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\EmonMonitor.Resources.AppResources.resources
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\EmonMonitor.csproj.GenerateResource.Cache
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\EmonMonitor.dll
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\EmonMonitor.pdb
+\\Escritorio\k\Arquivo\_Despensa\Desenvolvimento\VisualStudio\2013\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\XapCacheFile.xml
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\EmonMonitor.dll
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\EmonMonitor.pdb
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\AppManifest.xaml
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\Bin\Debug\EmonMonitor_Debug_AnyCPU.xap
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\SetupPage.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\MainPage.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\View\ConfigApiView.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\View\ConfigFeedView.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\View\FeedsDashboardView.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\View\StatusBarView.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\View\FeedsSubscribedPreviewView.g.cs
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\EmonMonitor.g.resources
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\EmonMonitor.Resources.AppResources.resources
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\EmonMonitor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\EmonMonitor.dll
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\EmonMonitor.pdb
+C:\Users\Administrator\Desktop\EmonMonitor_WindowsPhone_App\EmonMonitor\obj\Debug\XapCacheFile.xml

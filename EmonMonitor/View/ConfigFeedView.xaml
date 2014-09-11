@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="EmonMonitor.View.ConfigFeedView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+    xmlns:src="clr-namespace:EmonMonitor.View"             
+
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="280" d:DesignWidth="480">
+
+    <UserControl.Resources>
+        <src:BoolOpposite x:Key="BoolOpposite"/>
+    </UserControl.Resources>
+
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <ListBox Grid.Row="0"  Height="Auto"  HorizontalContentAlignment="Stretch" Background="{StaticResource PhoneTextLowContrastBrush}">
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                </Style>
+            </ListBox.ItemContainerStyle>
+            <ListBox.Items>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="40"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="80"/>
+                        <ColumnDefinition Width="80"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock x:Name="Id" Text="Id" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        <TextBlock x:Name="Desc" Text="Name" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Center"/>
+                        <TextBlock x:Name="Subscribed" Text="Subs." Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        <TextBlock x:Name="ShowOnDash" Text="On Dash" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Grid>
+            </ListBox.Items>
+        </ListBox>
+        
+        <ListBox Grid.Row="1"  ItemsSource="{Binding}" Height="520"  HorizontalContentAlignment="Stretch" >
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                </Style>
+            </ListBox.ItemContainerStyle>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="40"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="80"/>
+                            <ColumnDefinition Width="80"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock x:Name="Id" Text="{Binding Path=Id, Mode=OneWay}" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        <TextBlock x:Name="Desc" Text="{Binding Path=Name, Mode=OneWay}" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Center"/>
+                        <CheckBox x:Name="Subscribed" IsChecked="{Binding Path=Subscribed, Mode=TwoWay}" Grid.Column="2" HorizontalAlignment="Center" />
+                        <CheckBox x:Name="ShowOnDash" IsChecked="{Binding Path=ShowOnDash, Mode=TwoWay}" Grid.Column="3" HorizontalAlignment="Center" IsEnabled="{Binding Path=Subscribed}"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</UserControl>
